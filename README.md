@@ -1,2 +1,3 @@
-# youtube-dowloader
-Youtube video&amp;audio dowloader
+# YouTube Video&Audio Dowloader
+
+Simple scripts for downloading content from YouTube.
