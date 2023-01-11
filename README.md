@@ -1,3 +1,3 @@
 # YouTube Video&Audio Dowloader
 
-Simple scripts for downloading content from YouTube.
+Simple script for downloading content from YouTube.
